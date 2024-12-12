@@ -187,6 +187,6 @@ public class CalculatorNiRod extends JFrame implements ActionListener {
 		writer.write("");
 		writer.close();
 		
-		new CalculatorNiRod();
+		new Calculator();
 	}
       }
