@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 
-public class CalculatorNiRodNoFormatting extends JFrame implements ActionListener {
+public class CalculatorNoFormatting extends JFrame implements ActionListener {
 	
 	//===================Text Displays======================//
 	private JTextField textDisplay;
